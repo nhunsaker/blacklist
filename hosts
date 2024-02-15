@@ -1,9 +1,9 @@
 #=====================================
 # Title: Hosts contributed by Nathan O'Brien
-# http://stevenblack.com
+# use with pfsense and pfblockerng
 
-0.0.0.0 roblox.com
-0.0.0.0 snapchat.com
-0.0.0.0 tiktok.com
-0.0.0.0 monkey.app
-0.0.0.0 chatroulette.com
+127.0.0.1 roblox.com
+127.0.0.1 snapchat.com
+127.0.0.1 tiktok.com
+127.0.0.1 monkey.app
+127.0.0.1 chatroulette.com
